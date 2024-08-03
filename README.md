@@ -18,10 +18,8 @@ Analyze trends and patterns in wildfire activities in Australia
 - Interactive Maps with Folium: Created interactive maps to visualize wildfire activities across different regions in Australia.
 - Extended Analysis: Conducted further analysis to identify potential causes and patterns of wildfires.
 
-# Steps:
+# Steps
 # Download Required Libraries:
-- Install seaborn and folium as shown in this [file](https://github.com/catliugit/australia_wildfire_analysis/blob/main/Aus_Wildfire_Install_Requirements.txt)
-
-# Open Jupyter Notebook:
-- In VS Code, go to the Extensions view and search for "Jupyter".
-- Install the Jupyter extension, then open or create a .ipynb file to start using Jupyter Notebooks.
+In VSCode, install seaborn and folium using the instructions provided in this file.
+Open Jupyter Notebook:
+- Go to File > New File and select "Jupyter Notebook" to create a new .ipynb file.
