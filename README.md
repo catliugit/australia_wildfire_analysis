@@ -4,8 +4,8 @@
 This project analyzes wildfire activities in Australia using various data visualization techniques. It is part of the "Data Visualization with Python" course on Coursera.
 
 # Course Information
-Course Name: [Data Visualization with Python on Coursera](https://www.coursera.org/learn/python-for-data-visualization/home/welcome)
-Instructor: [Dr. Pooja]
+- Course Name: [Data Visualization with Python on Coursera](https://www.coursera.org/learn/python-for-data-visualization/home/welcome)
+- Instructor: [Dr. Pooja]
 
 # Objectives
 Using Matplotlib, Pandas, Seaborn, and Folium to create informative plots and charts
