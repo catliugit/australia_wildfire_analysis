@@ -21,3 +21,7 @@ Analyze trends and patterns in wildfire activities in Australia
 # Steps:
 # Download Required Libraries:
 - Install seaborn and folium as shown in this [file](https://github.com/catliugit/australia_wildfire_analysis/blob/main/Aus_Wildfire_Install_Requirements.txt)
+
+# Open Jupyter Notebook:
+- In VS Code, go to the Extensions view and search for "Jupyter".
+- Install the Jupyter extension, then open or create a .ipynb file to start using Jupyter Notebooks.
