@@ -19,5 +19,5 @@ Analyze trends and patterns in wildfire activities in Australia
 - Extended Analysis: Conducted further analysis to identify potential causes and patterns of wildfires.
 
 # Steps:
-# Download Required Libraries: 
-
+# Download Required Libraries:
+- Install seaborn and folium as shown in this [file](https://github.com/catliugit/australia_wildfire_analysis/blob/main/Aus_Wildfire_Install_Requirements.txt)
