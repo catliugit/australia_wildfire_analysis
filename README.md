@@ -12,6 +12,20 @@ Using Matplotlib, Pandas, Seaborn, and Folium to create informative plots and ch
 Visualize geographical data using Folium
 Analyze trends and patterns in wildfire activities in Australia
 
+# Dataset
+Time Frame: Data on fire activities in Australia starting from 2005.
+Regions: 7 distinct regions.
+Variables:
+Date: UTC timestamp, with data for 24 hours ahead.
+Estimated Fire Area: Daily sum of estimated fire area (in km²) with > 75% confidence for each region.
+Mean Estimated Fire Brightness: Daily mean of fire brightness (in Kelvin) based on flagged fire pixels with > 75% confidence.
+Mean Estimated Fire Radiative Power: Daily mean radiative power (in megawatts) with > 75% confidence.
+Mean Confidence: Daily mean confidence level for fires with > 75% confidence.
+Std Confidence: Standard deviation of radiative power (in megawatts).
+Var Confidence: Variance of radiative power (in megawatts).
+Count: Daily number of pixels for fires with > 75% confidence.
+Replaced: Indicates if data has been replaced with higher-quality standard data (marked as 'Y' for replaced data, typically with a 2-3 month lag).
+
 # Modifications and Enhancements
 - Additional Data Visualizations: Added more comprehensive visualizations to provide deeper insights into the wildfire data.
 - Enhanced Data Preprocessing: Improved data cleaning and preprocessing steps to ensure higher accuracy and reliability of the visualizations.
