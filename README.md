@@ -25,12 +25,6 @@ Date: UTC timestamp, with data for 24 hours ahead.
 - Count: Daily number of pixels for fires with > 75% confidence.
 - Replaced: Indicates if data has been replaced with higher-quality standard data (marked as 'Y' for replaced data, typically with a 2-3 month lag).
 
-# Modifications and Enhancements
-- Additional Data Visualizations: Added more comprehensive visualizations to provide deeper insights into the wildfire data.
-- Enhanced Data Preprocessing: Improved data cleaning and preprocessing steps to ensure higher accuracy and reliability of the visualizations.
-- Interactive Maps with Folium: Created interactive maps to visualize wildfire activities across different regions in Australia.
-- Extended Analysis: Conducted further analysis to identify potential causes and patterns of wildfires.
-
 # Steps
 # Download Required Libraries:
 In VSCode, install Seaborn and Folium using the instructions provided in this file.
