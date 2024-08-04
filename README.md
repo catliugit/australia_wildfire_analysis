@@ -37,3 +37,6 @@ Variables:
 In VSCode, install seaborn and folium using the instructions provided in this file.
 Open Jupyter Notebook:
 - Go to File > New File and select "Jupyter Notebook" to create a new .ipynb file.
+
+# Refer to Source File for Code and Annotations
+Go to [Source File](https://github.com/catliugit/australia_wildfire_analysis/commit/819c3ebf60c40fb9d9d3b67867e5a3f151f3f322) and run code in Jupyter Notebook.
